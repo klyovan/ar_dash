@@ -12,9 +12,6 @@
 		698A01BE12237C5F6119BC3D /* Pods_Runner.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 58B0A74B095F16395F4FFD6A /* Pods_Runner.framework */; };
 		74858FAF1ED2DC5600515810 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74858FAE1ED2DC5600515810 /* AppDelegate.swift */; };
 		7F11D3DA260DDB080067B61F /* models.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F11D3D9260DDB080067B61F /* models.scnassets */; };
-		7F7EE2B526809B6100DB2A5E /* london.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 7F7EE2B426809B3100DB2A5E /* london.mp4 */; };
-		7FFB0300266D1C2D001EC1FA /* photo360.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7FFB02FE266D1C2D001EC1FA /* photo360.jpg */; };
-		7FFB0301266D1C2D001EC1FA /* earth.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7FFB02FF266D1C2D001EC1FA /* earth.jpg */; };
 		97C146FC1CF9000F007C117D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FA1CF9000F007C117D /* Main.storyboard */; };
 		97C146FE1CF9000F007C117D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FD1CF9000F007C117D /* Assets.xcassets */; };
 		97C147011CF9000F007C117D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */; };
